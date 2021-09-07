@@ -18,7 +18,7 @@ This is Emoji Interpretor app made with React js.
 
 CLick 👇
 
-https://tanishq20.github.io/markEight/
+https://csb-t4zhp.netlify.app/
 
 ## Connect me
 
