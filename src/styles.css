@@ -1,0 +1,43 @@
+@import url("https://fonts.googleapis.com/css2?family=Comfortaa:wght@300&family=Roboto:wght@100&display=swap");
+
+body {
+  background-color: #004068;
+  font-family: "Comfortaa", cursive;
+}
+
+.heading {
+  text-align: center;
+  color: white;
+}
+
+.input-tag {
+  width: 80%;
+  border: 0.2rem solid green;
+  border-radius: 2rem;
+  outline: none;
+  padding: 0.5rem;
+}
+
+.display {
+  padding: 1rem;
+  font-weight: bold;
+  font-size: 2rem;
+}
+
+.head-tag {
+  border: 3px solid yellow;
+  background-color: green;
+  border-radius: 25px;
+  height: auto;
+  display: block;
+  margin: auto;
+  padding: 3px;
+  color: white;
+}
+
+.emoji {
+  font-size: 2rem;
+  padding: 0.5rem;
+  cursor: pointer;
+  margin-top: 10px;
+}

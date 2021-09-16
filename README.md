@@ -6,7 +6,9 @@
 [![GitHub forks](https://img.shields.io/github/forks/saswatamcode/the_shoppies?style=social)](https://github.com/tanishq20/markEight/network/members)
 [![GitHub stars](https://img.shields.io/github/stars/saswatamcode/the_shoppies?style=social)](https://github.com/tanishq20/markEight/stargazers)
 [![GitHub issues](https://img.shields.io/github/issues/saswatamcode/the_shoppies.svg)](https://github.com/tanishq20/markEight/issues)
+
 # markEight
+
 This is Emoji Interpretor app made with React js.
 
 ## Technology Stack Used
